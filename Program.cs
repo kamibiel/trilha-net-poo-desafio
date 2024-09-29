@@ -1,6 +1,6 @@
 ﻿using DesafioPOO.Models;
 
-// TODO: Realizar os testes com as classes Nokia e Iphone
+// Implementado
 Console.WriteLine("-------------------");
 Console.WriteLine("Smartphone Nokia");
 Console.WriteLine("-------------------");
